@@ -1,5 +1,9 @@
-# cd vue-demo
+# vue-demo
 
+## cd vue-demo
+```
+cd vue-demo
+```
 ## Project setup
 ```
 npm install
