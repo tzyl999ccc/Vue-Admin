@@ -1,4 +1,4 @@
-# vue-demo
+# cd vue-demo
 
 ## Project setup
 ```
