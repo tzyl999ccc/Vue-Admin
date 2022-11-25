@@ -2,7 +2,7 @@
 
 ## cd vue-demo
 ```
-cd vue-demo
+cd Vue-Admin-main
 ```
 ## Project setup
 ```
